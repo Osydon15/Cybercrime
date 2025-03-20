@@ -71,10 +71,10 @@ Cybercrime incidents are distributed across 11 countries, with the highest numbe
 - United Kingdom (1133196)
 - Inida (1130816)
 - Canada (1106278)
--	United States
 -	China (1071345)
 - Nigeria (1059090)
 - Russia (1047115)
+- Australia (1025592)
 
 Cybercrime is a global issue, with some countries experiencing more attacks due to higher digital penetration and financial activity. Countries with weaker cybersecurity laws may also be more vulnerable.
 
